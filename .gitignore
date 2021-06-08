@@ -1,0 +1,8 @@
+# refrain from pushing files and directories below
+Include/  
+Lib/  
+pyvenv.cfg  
+Scripts/
+lambda_deploy_package.zip
+src/*
+!lambda_function.py
